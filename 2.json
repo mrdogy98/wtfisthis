@@ -1,0 +1,59 @@
+{
+"name": "wtfisthis #726",
+"symbol": "WTF",
+"description": "what the fuck is this?",
+"seller_fee_basis_points": 9999,
+"image": "https://nftstorage.link/ipfs/bafybeihzquwtdbm76ujymdxmh2vlye6nzysu3oupnhf24okecdgdfqaxky/726.jpeg",
+"external_url": "",
+"collection": {
+"name": "wtfisthis",
+"family": "LaunchMyNFT"
+},
+"attributes": [
+{
+"trait_type": "Background",
+"value": "Shittycolor"
+},
+{
+"trait_type": "Body",
+"value": "Green"
+},
+{
+"trait_type": "Hand",
+"value": "Blue"
+},
+{
+"trait_type": "Mouth",
+"value": "Weirdfcker"
+},
+{
+"trait_type": "Eyes",
+"value": "Cryupussy"
+},
+{
+"trait_type": "Hat",
+"value": "Angel"
+},
+{
+"trait_type": "Rarity Rank",
+"value": 1921,
+"display_type": "number",
+"max_value": 2222
+}
+],
+"properties": {
+"files": [
+{
+"uri": "https://nftstorage.link/ipfs/bafybeihzquwtdbm76ujymdxmh2vlye6nzysu3oupnhf24okecdgdfqaxky/726.jpeg",
+"type": "image/jpeg"
+}
+],
+"category": "image",
+"creators": [
+{
+"address": "3sgDE1fzKmrdeep7NZgVn4ZNWeLfWGB3obkjD2ddNPKP",
+"share": 100
+}
+]
+}
+}
